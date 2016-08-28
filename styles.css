@@ -1,0 +1,37 @@
+/* add your CSS here */
+
+div.card {
+  width: 300px;
+  padding: 10px;
+  box-shadow: 10px 10px 5px 0px rgba(212,210,212,1);
+  border: 1px solid #bfbdbf;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+div.card h3 {
+  margin: 0px;
+  padding: 10px 0;
+}
+
+div.card img.animal-photo {
+  padding: 10px 0;
+}
+
+div.info {
+  padding: 0 10px;
+  border: 1px solid #bfbdbf;
+}
+
+p.interesting-fact {
+  font-style: italic;
+}
+
+ul.data-list {
+  list-style: none;
+  padding-left: 0px;
+}
+
+ul.data-list li span {
+  font-weight: bold;
+}
